@@ -53,24 +53,29 @@ El análisis se basa en tres fuentes de datos:
 
 ## Insights clave
 
-- Los canales con mayor volumen de usuarios no necesariamente generan mayor valor para la empresa.  
-- Se identificaron canales con mayor tasa de conversión, lo que evidencia diferencias en eficiencia.  
-- Algunos canales presentan un CAC elevado en relación con el valor generado (LTV).  
-- El tiempo de conversión varía entre cohortes, indicando diferencias en la calidad del tráfico.  
-- No todos los canales recuperan la inversión en el mismo periodo (ROMI).  
-
+- El análisis evidencia una ineficiencia significativa en la inversión de marketing, con un ROMI general de -23.42%.  
+- Las fuentes 1 y 2 presentan el mejor desempeño en términos de retorno, siendo las más eficientes.  
+- La fuente 3 concentra la mayor pérdida, con aproximadamente un 68% del presupuesto sin retorno.  
+- Las fuentes 4, 5 y 10 muestran un desempeño negativo sostenido.  
+- La fuente 9, aunque subutilizada, presenta un comportamiento estable y rentable, representando una oportunidad de crecimiento.  
 ---
 
 ## Recomendaciones
 
-- Redistribuir la inversión hacia canales con mejor relación LTV/CAC.  
-- Optimizar canales con alto tráfico pero baja conversión.  
-- Reducir inversión en canales con bajo rendimiento.  
-- Implementar pruebas A/B para mejorar la conversión.  
-- Monitorear continuamente métricas clave para optimizar la inversión.  
+- Redistribuir la inversión hacia canales con mayor eficiencia (fuentes 1 y 2).  
+- Incrementar la inversión en la fuente 9 debido a su estabilidad y potencial.  
+- Reducir significativamente la inversión en la fuente 3 (hasta un 10% del presupuesto).  
+- Eliminar gradualmente las fuentes 4, 5 y 10 por su bajo rendimiento.  
+- Implementar monitoreo continuo de métricas clave como ROMI, CAC y LTV.  
 
 ---
+## Impacto estimado
 
+- Mejora del ROMI general de -23.42% a un rango positivo de 35%–40%  
+- Reducción de pérdidas en aproximadamente $95,000 anuales  
+- Incremento estimado de ingresos de $60,000 gracias a una mejor asignación del presupuesto
+   
+---
 ## Conclusión
 
 El análisis demuestra que no todos los canales de marketing aportan el mismo valor. La optimización de la inversión basada en métricas de eficiencia permite mejorar la rentabilidad y el crecimiento sostenible del negocio.
