@@ -66,6 +66,13 @@ Efficient budget allocation based on data-driven insights can significantly impr
 
 ---
 
+## Business Impact
+
+- Identified inefficient marketing spend with a negative ROMI of -23%  
+- Proposed budget reallocation strategy to improve ROMI up to 40%  
+- Estimated reduction in losses of ~$95,000 annually
+  
+---
 ## Next Steps
 
 - Implement continuous monitoring  
